@@ -1,0 +1,5 @@
+{
+    "/api/posts": "/posts",
+    "/api/post?id=:id": "/posts?id=:id",
+    "/api/post/comments?post=:id": "/comments?postId=:id"
+  }
